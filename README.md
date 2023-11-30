@@ -1,16 +1,17 @@
-### Hi there 👋
+# Bem-vindo ao Meu Perfil! 👋
 
-<!--
-**Dark2307-glitch/Dark2307-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou Henry ! 👨‍💻 Desenvolvedor entusiasta e apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente, estou aprendendo JS, HTML, CSS, C# e etc.
+- 💡 Estou interessado em programar jogos e sites.
+- 📫 Como chegar até mim: [LinkedIn](https://www.linkedin.com/in/henry-souza-8442a8201/) 
+
+## 🛠️ Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+
