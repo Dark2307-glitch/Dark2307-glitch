@@ -6,7 +6,7 @@ Olá, sou Henry ! 👨‍💻 Desenvolvedor entusiasta e apaixonado por tecnolog
 
 - 🌱 Atualmente, estou aprendendo JS, HTML, CSS, C# e etc.
 - 💡 Estou interessado em programar jogos e sites.
-- 📫 Como chegar até mim: [LinkedIn]([https://www.linkedin.com/in/henry-souza-8442a8201/](https://www.linkedin.com/in/henry-souza-2770762b6/)) 
+- 📫 Como chegar até mim: [LinkedIn](https://www.linkedin.com/in/henry-souza-2770762b6/)
 
 ## 🛠️ Tecnologias e Ferramentas
 
